@@ -1,0 +1,11 @@
+# Ignorar arquivos de dados grandes
+data/
+*.xlsx
+*.csv
+
+# Ignorar ambientes virtuais e caches
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+env/
+venv/
