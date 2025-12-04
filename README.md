@@ -1,6 +1,6 @@
 # Previsão de Vendas - Varejo Online (Time Series)
 
-Trabalho referente ao 2º Bimestre da disciplina de Mineração de Dados da FATEC Franca. O objetivo é realizar a previsão de faturamento mensal de uma varejista online do Reino Unido utilizando técnicas de Séries Temporais.
+Trabalho referente ao 2º Bimestre da disciplina de Mineração de Dados do curso DSM (Desenvolvimento de Software Multiplataforma) da FATEC Franca. O objetivo é realizar a previsão de faturamento mensal de uma varejista online do Reino Unido utilizando técnicas de Séries Temporais.
 
 ## 🎯 Objetivos
 
