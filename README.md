@@ -29,4 +29,4 @@ O modelo estatístico de Holt (Tendência Linear) foi aplicado para prever os ú
 3.  Execute o notebook `Previsao_Vendas_Retail.ipynb`.
 
 ---
-**Aluno:** [Igor Owen Silva de Paula] | **R.A.:** [1091392313006]
+**Aluno:** Igor Owen Silva de Paula | **R.A.:** 1091392313006
